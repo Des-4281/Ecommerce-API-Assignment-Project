@@ -107,3 +107,6 @@ In Postman, click **Import**, select the file, and send the requests in order (U
 | `products` | id, product_name, price |
 | `orders` | id, order_date, user_id → users |
 | `order_product` | order_id → orders, product_id → products (composite primary key, which prevents duplicates) |
+
+## License 
+MIT
