@@ -1,9 +1,3 @@
-# Assignment reference material — not part of the submitted solution
-OVERVIEW.md
-GUIDE.md
-CODE_STEPS.md
-
-# Python / Flask project housekeeping
 venv/
 __pycache__/
 *.pyc
